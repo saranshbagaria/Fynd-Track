@@ -4,7 +4,7 @@
 
 - heading
 
-  -[ ] name as main <strong>logo of site</strong> 
+  - [ ] name as main <strong>logo of site</strong> 
   - [ ] projects 
   - [ ] social media 
   - [ ] contact

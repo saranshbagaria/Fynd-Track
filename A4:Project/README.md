@@ -20,8 +20,10 @@
 
 - Page 2 - Projects
 
-  - [ ] project title , description , screenshot and link
-
+  - [x] project1 title , description  and link
+  - [x] project2 title , description  and link
+  - [x] project3 title , description  and link
+  - [x] project4 title , description  and link
 - Page 3 - contact 
 
   - [ ] mail box 

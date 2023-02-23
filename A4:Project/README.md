@@ -11,7 +11,7 @@
   
 - Page 1 - Home Page
 
-  -[x]  top bar 
+  - [x]  top bar 
   - [x] welcome message with short description
   - [x] quotes 
   - [x] education 
@@ -20,7 +20,7 @@
 
 - Page 2 - Projects
 
-  -[ ] project title , description , screenshot and link
+  - [ ] project title , description , screenshot and link
 
 - Page 3 - contact 
 

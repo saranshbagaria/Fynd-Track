@@ -4,10 +4,10 @@
 
 - heading
 
-  - [ ] name as main <strong>logo of site</strong> 
-  - [ ] projects 
-  - [ ] social media 
-  - [ ] contact
+  - [x] name as main <strong>logo of site</strong> 
+  - [x] projects 
+  - [x] social media 
+  - [x] contact
   
 - Page 1 - Home Page
 
@@ -26,7 +26,7 @@
   - [x] project4 title , description  and link
 - Page 3 - contact 
 
-  - [ ] mail box 
-  - [ ] social media link
+  - [x] mail box 
+  - [x] social media link
 
 > education contains logo name and course 

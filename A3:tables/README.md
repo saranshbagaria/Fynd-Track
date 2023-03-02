@@ -17,11 +17,16 @@
   - [ins](#8-ins-inserted-text)
   - [sub](#9-sub-subscript-text)
   - [sup](#10-sup-super-text)
+  
+  
 ### TAGS
+
 #### `<tr>`  Table Row
 - is table row
+
 #### `<td>` Table Element
 - is table element
+
 ```html
 <table>
     <tr>
@@ -31,7 +36,9 @@
     </tr>
 </html>
 ```
+
 #### OUTPUT :-
+
 <table>
     <tr >
         <td>  element 1 </td>
@@ -39,6 +46,7 @@
         <td>  element 3</td>
     </tr>
 </table>
+
 
 ```html
 <table>
@@ -49,6 +57,7 @@
 ```
 
 #### OUTPUT :-
+
 <table>
     <tr><td>element 1</td></tr>
     <tr><td>element 2</td></tr>
@@ -57,15 +66,24 @@
 
 
 #### `<thead>` Table Heading
+
 - set the content in bold format
 - th is deprecated
+
 <br><br>
+
 #### `<tfoot>` Table Footer
+
 - generally used is foot of the table
+
 <br><br>
+
 #### `<tbody>` Table Body
+
 - we can define middle part within this tag
+
 <br><br>
+
 ```html
 <table>
     <tfoot>
@@ -80,6 +98,7 @@
     </thead>
 </table>
 ```
+
 ### OUTPUT :-
 
 <table>
@@ -96,14 +115,17 @@
 </table>
 
 #### \<colgroup\> Column Group
+
 - we can change property of whole column
 - here span group columns in serial manner
+
 ````html
 <colgroup>
     <col span="2" style="background-color: yellow">
     <col  style="background-color: red">
 </colgroup>
 ````
+
 ### Time Table Example
 
 <table border="3" >
@@ -192,54 +214,79 @@
     </tfoot>
 </table>
 
+
 ## Format text
+
 #### 1.  `<b>`  Bold text
+
 ```html
 <b>bold text</b>
 ```
+
 ##### OUTPUT :-
+
 <b>bold text</b>
 
 #### 2. `<strong>` Important text 
+
 ```html
 <strong>important text</strong>
 ```
+
 #### OUTPUT :-
+
 <a> Hello <strong> bold text</strong></a>
 
+
 #### 3. `<i>`  Italic text
+
 ```html
 <i>Italic text</i>
 ```
+
 #### OUTPUT :-
+
 <a> Hello <i> italic text</i></a>
 
+
 #### 4. `<em>` Emphasized text
+
 ```html
 <em>Emphasized text</em>
 ```
+
 #### OUTPUT :-
+
 <a> Hello<em>Emphasized text</em> </a>
 
 #### 5. `<mark>` Marked Text
+
 ```html
 <mark>Marked Text</mark>
 ```
+
 #### OUTPUT :-
+
 <a> Hello <mark>Marked Text</mark> </a>
 
 ####  6. `<small>` Smaller Text
+
 ```html
 <small>Smaller Text</small>
 ```
+
 #### OUTPUT :-
+
 <a> Hello <small> Smaller Text </small> </a>
 
 #### 7. `<del>` Deleted Text
+
 ```html
 <del> Deleted Text</del>
 ```
+
 #### OUTPUT :-
+
 <a>Hello<del> Deleted Text</del></a>
 
 #### 8. `<ins>` Inserted Text
@@ -247,20 +294,30 @@
 ```html
 <ins> inserted text</ins>
 ```
+
 #### OUTPUT :-
+
 <a>Hello<ins> inserted text</ins></a>
 
+
 #### 9. `<sub>` Subscript Text
+
 ```html
 <sub>subscript text</sub>
 ```
+
 #### OUTPUT :-
+
 <a>Hello<sub>subscript text</sub></a>
 
+
 #### 10. `sup` Super text
+
 
 ```html
 <sup>Superscript text</sup>
 ```
+
 ##### OUTPUT :-
+
 <a>Hello<sup>Superscript text</sup><a>

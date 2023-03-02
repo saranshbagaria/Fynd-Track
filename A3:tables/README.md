@@ -128,7 +128,8 @@
 
 ### Time Table Example
 
-<table border="3" >
+
+<table border="1" >
     <colgroup>
         <col style="background-color: #94ff51; font-weight: bold">
     </colgroup>
@@ -163,9 +164,7 @@
             <td align="center" height="50" width = "100" style="background-color: yellow">JavaScript</td>
             <td align="center" height="50" width = "100" style="background-color: blue">Html</td>
             <td align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
-            <td align="center" height="50" width = "100" rowspan="6" style="background-color: chocolate">
-                <h2>L<br>U<br>N<br>C<br>H</h2>
-            </td>
+            <td align="center" height="50" width = "100" rowspan="6" style="background-color: chocolate"><h2>L<br>U<br>N<br>C<br>H</h2></td>
             <td align="center" height="50" width = "100" colspan="2"style="background-color: #E1F8DC">Drill</td>
         </tr>
         <tr>

@@ -135,80 +135,80 @@
     </colgroup>
     <thead>
     <tr style="background-color: burlywood">
-        <td align="center" height="50" width = "100">
+        <td align="center"  width = "100">
             <b>Day/Period</b>
         </td>
-        <td align="center" height="50" width = "100">
+        <td align="center"  width = "100">
             <b>9:30-10:20</b>
         </td>
-        <td align="center" height="50" width = "100" >
+        <td align="center"  width = "100" >
             <b>10:20-11:10</b>
         </td>
-        <td align="center" height="50" width = "100" >
+        <td align="center"  width = "100" >
             <b>11:10-12:00</b>
         </td>
-        <td align="center" height="50" width = "100">
+        <td align="center"  width = "100">
             <b>12:00-12:40</b>
         </td>
-        <td align="center" height="50" width = "100" >
+        <td align="center"  width = "100" >
             <b>12:40-1:30</b>
         </td>
-        <td align="center" height="50" width = "100" >
+        <td align="center"  width = "100" >
             <b>1:30-2:20</b>
         </td>
     </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center" height="50" width = "100" >Monday</td>
-            <td align="center" height="50" width = "100" style="background-color: yellow">JavaScript</td>
-            <td align="center" height="50" width = "100" style="background-color: blue">Html</td>
-            <td align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
-            <td align="center" height="50" width = "100" rowspan="6" style="background-color: chocolate"><h2>L<br>U<br>N<br>C<br>H</h2></td>
-            <td align="center" height="50" width = "100" colspan="2"style="background-color: #E1F8DC">Drill</td>
+            <td align="center"  width = "100" >Monday</td>
+            <td align="center"  width = "100" style="background-color: yellow">JavaScript</td>
+            <td align="center"  width = "100" style="background-color: blue">Html</td>
+            <td align="center"  width = "100" style="background-color: #2ab7ca">CSS</td>
+            <td align="center"  width = "100" rowspan="6" style="background-color: chocolate"><h2>L<br>U<br>N<br>C<br>H</h2></td>
+            <td align="center"  width = "100" colspan="2"style="background-color: #E1F8DC">Drill</td>
         </tr>
         <tr>
-            <td align="center" height="50" width = "100">Tuesday</td>
-            <td align="center" height="50" width = "100" colspan="2"style="background-color: #E1F8DC">Drill</td>
-            <td align="center" height="50" width = "100"style="background-color: #fe4a49">Angular</td>
-            <td align="center" height="50" width = "100"style="background-color: green">Node</td>
-            <td align="center" height="50" width = "100"style="background-color: blue">Html</td>
+            <td align="center"  width = "100">Tuesday</td>
+            <td align="center"  width = "100" colspan="2"style="background-color: #E1F8DC">Drill</td>
+            <td align="center"  width = "100"style="background-color: #fe4a49">Angular</td>
+            <td align="center"  width = "100"style="background-color: green">Node</td>
+            <td align="center"  width = "100"style="background-color: blue">Html</td>
         </tr>
         <tr>
-            <td align="center" height="50" width = "100"> Wednesday</td>
-            <td align="center" height="50" width = "100" style="background-color: yellow">JavaScript</td>
-            <td align="center" height="50" width = "100" style="background-color: #fe4a49">Angular</td>
-            <td align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
-            <td align="center" height="50" width = "100"style="background-color: green">Node</td>
-            <td align="center" height="50" width = "100" style="background-color: blue">Html</td>
+            <td align="center"  width = "100"> Wednesday</td>
+            <td align="center"  width = "100" style="background-color: yellow">JavaScript</td>
+            <td align="center"  width = "100" style="background-color: #fe4a49">Angular</td>
+            <td align="center"  width = "100" style="background-color: #2ab7ca">CSS</td>
+            <td align="center"  width = "100"style="background-color: green">Node</td>
+            <td align="center"  width = "100" style="background-color: blue">Html</td>
         </tr>
         <tr>
-            <td align="center" height="50" width = "100" >Thursday</td>
-            <td align="center" height="50" width = "100" style="background-color: blue">Html</td>
-            <td align="center" height="50" width = "100" style="background-color: #fe4a49">Angular</td>
-            <td align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
-            <td align="center" height="50" width = "100" style="background-color: yellow ">JavaScript</td>
-            <td align="center" height="50" width = "100"style="background-color: green">Node</td>
+            <td align="center"  width = "100" >Thursday</td>
+            <td align="center"  width = "100" style="background-color: blue">Html</td>
+            <td align="center"  width = "100" style="background-color: #fe4a49">Angular</td>
+            <td align="center"  width = "100" style="background-color: #2ab7ca">CSS</td>
+            <td align="center"  width = "100" style="background-color: yellow ">JavaScript</td>
+            <td align="center"  width = "100"style="background-color: green">Node</td>
         </tr>
         <tr>
-            <td align="center" height="50" width = "100"> Friday</td>
-            <td align="center" height="50" width = "100" style="background-color: #fe4a49">Angular</td>
-            <td align="center" height="50" width = "100" style="background-color: blue">Html</td>
-            <td align="center" height="50" width = "100" style="background-color: yellow">JavaScript</td>
-            <td align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
-            <td align="center" height="50" width = "100"style="background-color: green">Node</td>
+            <td align="center"  width = "100"> Friday</td>
+            <td align="center"  width = "100" style="background-color: #fe4a49">Angular</td>
+            <td align="center"  width = "100" style="background-color: blue">Html</td>
+            <td align="center"  width = "100" style="background-color: yellow">JavaScript</td>
+            <td align="center"  width = "100" style="background-color: #2ab7ca">CSS</td>
+            <td align="center"  width = "100"style="background-color: green">Node</td>
         </tr>
         <tr>
-            <td align="center" height="50" width = "100"> Saturday</td>
-            <td align="center" height="50" width = "100" style="background-color: #fe4a49">Angular</td>
-            <td align="center" height="50" width = "100" style="background-color: yellow">JavaScript</td>
-            <td align="center" height="50" width = "100"style="background-color: green">Node</td>
-            <td colspan="2" align="center" height="50" width = "100" style="background-color: #2ab7ca">CSS</td>
+            <td align="center"  width = "100"> Saturday</td>
+            <td align="center"  width = "100" style="background-color: #fe4a49">Angular</td>
+            <td align="center"  width = "100" style="background-color: yellow">JavaScript</td>
+            <td align="center"  width = "100"style="background-color: green">Node</td>
+            <td colspan="2" align="center"  width = "100" style="background-color: #2ab7ca">CSS</td>
         </tr>
     </tbody>
     <tfoot>
     <tr style=" background-color: #b52bc0">
-        <td colspan = "7" align="center" height="50"> <a style="font-size:30px; text-autospace: ideograph-alpha">HOLLY-DAY</a></td>
+        <td colspan = "7" align="center" > <a style="font-size:30px; text-autospace: ideograph-alpha">HOLLY-DAY</a></td>
     </tr>
     </tfoot>
 </table>

@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.page1{
+    margin-top: 200px;
+    background-image: url("img.png");
+    height: 300px;
+    width: 350px;
+    background-color: #f6b05b;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.page1:hover {
+    transform:  rotateY(180deg)  ;
+    transform-origin: 0% 50%;
+    transition: transform ease-in 3s;
+}
